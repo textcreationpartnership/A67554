@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Animadversions and remarks upon Collonel Sydney's paper answered</title>
+            <author>Ward, S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67554</idno>
+            <idno type="STC">Wing W808A</idno>
+            <idno type="STC">ESTC R15166</idno>
+            <idno type="EEBO-CITATION">12255704</idno>
+            <idno type="OCLC">ocm 12255704</idno>
+            <idno type="VID">57431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67554)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 905:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Animadversions and remarks upon Collonel Sydney's paper answered</title>
+                  <author>Ward, S.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author S. Ward,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to S. Ward by Wing.</note>
+                  <note>Broadside.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sidney, Algernon, 1622-1683.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:57431:1" rendition="simple:additions"/>
+            <head>THE ANIMADVERSIONS AND REMARKS UPON <hi>Collonel Sydney's Paper</hi> ANSWERED.</head>
+            <p>WE live in a Wonder-working Age, wherein Death (the ultimate Execution of the Law) is not deemed ſufficient for the Puniſhment of a Malefactor, but his dead Aſhes muſt alſo be diſturbed with the Animadverſions and Remarks of every witty and wanton Pen. The good Old Rule, <hi>de mortuis nil niſi Bonum</hi> ſeem<g ref="char:EOLhyphen"/>ing to be quite antiquated.</p>
+            <p>There was not one that ſuffered upon account of the late helliſh <hi>Popiſh Plot,</hi> though at their Deaths they denied all effectually, and aſſerted their own Innocence with all Pro<g ref="char:EOLhyphen"/>teſtations imaginable, yet ſome of them (as the five Jeſuits, <hi>&amp;c.</hi>) expreſſing the common Engliſh ſaying of the <hi>Child unborn, and the like,</hi> had their laſt Speeches (for that Reaſon) ani<g ref="char:EOLhyphen"/>madverted upon. And when <hi>Langhorne,</hi> and the late Lord <hi>Stafford,</hi> in their Speeches gave no ſuch occaſions; Then matter was invented for the Animadverters to work upon; as that <hi>Langhorne</hi> was diſciplined or whipt, the Lord <hi>Stafford</hi> was kept Drunk or intoxicated with Spirits and Brandy. Nay, even the late Earl of <hi>Eſſex,</hi> though he was his own Execu<g ref="char:EOLhyphen"/>tioner, and died as private and quiet as was poſſible <hi>(without one word of a Speech)</hi> yet oh Monſtrous; Matter was alſo invented for Animadverſions upon his death.</p>
+            <p>It's true, the firſt three <hi>(viz.) Walcot, Hone</hi> and <hi>Rouſe;</hi> that were executed for this <hi>Fana<g ref="char:EOLhyphen"/>tical</hi> Conſpiracy, eſcaped their animadverting and remarking Pens. But the Reaſon is plain, they at the Gallows made their own Speeches, and therein confeſſed the Conſpiracy and ſubmitted willingly. Now the Loyal Party diſdaining to Triumph over dead men (ac<g ref="char:EOLhyphen"/>cording to their wonted modeſty) were ſilent; And as for the <hi>Whiggs,</hi> they were other<g ref="char:EOLhyphen"/>wiſe imployed, laying all their Heads together how to <hi>ſham</hi> the Conſpiracy it ſelf, and to Render it (to the Mobile) a mere Story and trick of State. The contrary whereof theſe three mens Speeches and Confeſſions ſufficiently evinc'd, and therefore they were very de<g ref="char:EOLhyphen"/>ſirous they ſhould reſt in Oblivion. But when one of the Top of the Party, the late Lord <hi>Ruſſel,</hi> came to Dye, and he having with the Aſſiſtance of his <hi>Scotch</hi> Ghoſtly Father compiled his written Speech, and delivered it to the Sheriff; It no ſooner appeared in the World, but Lord, how many Pens were preſently imployed to Animadvert and Remark upon it, though I muſt needs confeſs there was ſome Reaſon for ſo doing, for his Lordſhip upon delivery of that Paper ſpake words to the Sheriff contradictory to the Purport thereof, <hi>Saying he knew of no Plot.</hi> And yet in the Paper confeſſed the <hi>CONSPIRACT.</hi> And beſides, the Paper it ſelf was ſo ſtuff'd with Contradictions, Evaſions, and Equivocations, that his Lordſhip ſeemed to have out ſtript the whole Colledge of Jeſuits in theſe faculties.</p>
+            <p>But pray Gentlemen, how comes Collonel <hi>Sydneys</hi> Paper to be animadverted and remark'd upon, when it's neither intituled his laſt Speech, nor ſo much as looks like a Speech, for there is neither <hi>Confeſſion</hi> nor <hi>Denial</hi> in the whole Paper; And if theſe light and nimble Pen<g ref="char:EOLhyphen"/>men had conſidered the ſecond Paragraph in the Paper, they might have perceived it a Flat-Bar to any Animadverting upon it, the Paragraph being thus; <hi>Moreover, we live in an Age that maketh Truth paſs for Treaſon: I dare not ſay any thing contrary unto [it] And the Ears of thoſe that are about me will probably be found too tender to hear it. My Tryal and Condemnation doth ſufficiently Evidence this.</hi> Now Mr. <hi>Animadverter</hi> you ſhould firſt have found out the <hi>Relatives</hi> to the firſt, <hi>[it]</hi> and the laſt word <hi>[this]</hi> in the Paragraph, and then have made ſenſe (if you could) of the whole, before you had troubled your ſelf to Animadvert upon it.</p>
+            <p>I perceive you ſeem mighty angry with the Collonel for the ill words he in the next Para<g ref="char:EOLhyphen"/>graph gives the Lord <hi>Howard;</hi> I muſt agree they are very uncharitable ones, and very unfit for a dying man to utter, eſpecially any who profeſſeth <hi>Chriſtianity,</hi> which enjoyns all it's Diſ<g ref="char:EOLhyphen"/>ciples
+<pb facs="tcp:57431:2" rendition="simple:additions"/>not only to forgive, but to pray for their Enemies, as they expect their Prayers ſhould be heard and their Sins forgiven; <hi>But I ſuppoſe the Collonel</hi> was in a dogged ill Humour when he wrote this Paragraph; However you might have obſerved he was ſo much a Gentleman as not to tell a Lye, and therefore (as I ſuppoſe) could not deny the leaſt <hi>Iota</hi> the Lord <hi>Howard</hi> evi<g ref="char:EOLhyphen"/>denc'd againſt him at his Tryal, and from thence all Mankind (without breach of Charity) may conclude, that his Lordſhip Swore nothing but plain and pregnant Truth. The Conſe<g ref="char:EOLhyphen"/>quence whereof naturally is, that Collonel <hi>Sydney</hi> was a Traytor, and deſerved to Suffer as ſuch, and I cannot find by his Paper, that he himſelf was of any other Opinion.</p>
+            <p>Now ſince the Proteſtant Church of <hi>England,</hi> with all its true Sons, teach, profeſs, and pra<g ref="char:EOLhyphen"/>ctice (according to the holy Scriptures and the example of our Bleſſed Lord and Saviour and his Apoſtles,) That Kings are Gods anointed, and Gods Vicegerents; That their Functions and Perſons are exceeding ſacred, and not to be approached but with an untoucht admiration; What? If for quieneſs ſake, and to comply with the Collonels ill humor we grant him his <hi>Whim Wham, That the Right and Power of Magiſtrates in every Country was, That which the Laws of that Country made it to be;</hi> I cannot ſee any great hurt in it, Since even the Laws of <hi>England</hi> do not onely confirm the Church of <hi>England</hi> in the above mentioned Doctrine and Practice; But do further avow and declare, That the <hi>Crown</hi> of <hi>England</hi> is an <hi>Imperial Crown;</hi> That the King is ſupream in all Cauſes, and over all Perſons <hi>&amp;c.</hi> That the King can do no wrong; That it is not lawful upon any account whatſoever to take up Arms againſt the King or any commiſſionated by him. That neither the People, collective or repreſentative, have any Coordinate Power with (much leſs) Juriſdiction over the King, and the like; We may very well hope that though our Modern Whiggs (according to the Principles and Practice of thoſe in 40. and 41. and the late <hi>Cargalites</hi> in <hi>Scotland</hi>) ſeem to have ſtifled their Conſciences as to Gods Laws in theſe Particulars, Yet even theſe humane Laws may be ſufficient to bridle and curb the <hi>unrulieſt</hi> Spirit of them all, or to ſend them after the Collonel and his old Companions, <hi>Harriſon, Scott, Cooke, &amp;c.</hi>
+            </p>
+            <p>But how came you Animadverters to appropriate all Idols and Idolatry to Popery, when<g ref="char:EOLhyphen"/>as it ſeems moſt plain that this doughty Collonel by the Idols and Idolatry in his Paper aim<g ref="char:EOLhyphen"/>ed at <hi>Monarchy</hi> and <hi>Hierarchy;</hi> and upon that account one may fancy the Collonel ſpeak<g ref="char:EOLhyphen"/>ing to his <hi>Men, Brethren</hi> and <hi>Father; Friends, Country-men,</hi> and <hi>Strangers,</hi> at the head of a new raiſed Regiment.</p>
+            <p>In like manner the Animadverter hath taken a great deal of Pains to interpret the Collo<g ref="char:EOLhyphen"/>nel's Paper before he found out the Deity to whom the Paper was directed, for as for the God by whom <hi>Kings Reign, The God of Peace, &amp;c.</hi> I cannot find by the Paper that the Collo<g ref="char:EOLhyphen"/>nel meant any ſuch. And therefore it may be ſuppoſed he admired <hi>Mars;</hi> For I find by his Principles and Practice he was an utter Enemy to <hi>Venus.</hi>
+            </p>
+            <p>Now I am ſo far from envying the Collonel in his Imaginary Happineſs in being ſingled out as a Witneſs for the <hi>OLD CA<g ref="char:V">Ʋ</g>SE</hi> in which he was from his Youth engaged, and for which (his God) had ſo often and wonderfully declared himſelf; That I heartily wiſh that every Mothers Son in the three Kingdoms that ſtill obſtinately retain the ſame af<g ref="char:EOLhyphen"/>fection for that <hi>CA<g ref="char:V">Ʋ</g>SE,</hi> and are ſo maliciouſly or wilfully blinded either not to ſee, or elſe do envy the great plenty, Peace, Eaſe and Happineſs we enjoy under our moſt excellent Prince, the beſt of Governments, That they may be all ſingled out, and forthwith compelled to give their evidence in the ſame manner as this their deceaſed Brother <hi>Collonel Sydney</hi> hath done.</p>
+            <p>The Animadverter hath done well to leave it to the Gentlemen of the long <hi>Robe</hi> to anſwer ſo much of the Paper as concerns them. But I hope they have better and more profitable Employments than to ſpend their Time or Pains with the Inſolencies and Imperti<g ref="char:EOLhyphen"/>nency of every Boutifeu.</p>
+            <p>And now you <hi>Animadverters</hi> and <hi>Remarkers,</hi> If this that I have here ſaid be not ſuffici<g ref="char:EOLhyphen"/>ent to deter you from the like Practices hereafter, I here proteſt that the next time I catch you tardy I will ſend the <hi>Salamanca Doctor,</hi> who ſhall fall upon you with his 30000 <hi>Pilgrims</hi> armed moſt dreadfully with <hi>Black-bills</hi> and <hi>Muſtard-balls,</hi> or elſe in his more ſure and ſpeedier way I will prevail with him</p>
+            <epigraph>
+               <q>
+                  <l>To whet his Memory, though once forgot,</l>
+                  <l>And make you an Appendix to his Plot.</l>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for the Author S. <hi>Ward. 1684.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
